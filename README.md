@@ -1,6 +1,6 @@
-# WorkWiz - Freelance Task Management Platform
+# WorkDirecz - Freelance Task Management Platform
 
-**WorkWiz** is a web portal specifically designed to streamline the task management process for **freelance workers** and **admins**. It allows admins to create and assign tasks to freelancers, who can then complete and submit them for review. Admins can approve or reject the tasks, ensuring a smooth workflow for both parties. Built with a **microservices architecture**, **WorkWiz** is scalable, easy to maintain, and optimized for handling large volumes of freelance work.
+**WorkDirecz** is a web portal specifically designed to streamline the task management process for **freelance workers** and **admins**. It allows admins to create and assign tasks to freelancers, who can then complete and submit them for review. Admins can approve or reject the tasks, ensuring a smooth workflow for both parties. Built with a **microservices architecture**, **WorkDirecz** is scalable, easy to maintain, and optimized for handling large volumes of freelance work.
 
 The platform is developed using **Spring Boot** for the backend, **React** for the frontend, **MySQL** for database management, and **Redux** for state management.
 
