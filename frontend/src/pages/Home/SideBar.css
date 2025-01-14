@@ -1,0 +1,23 @@
+.menuItem{
+    
+    border: 2px solid #c24dd0;
+}
+.activeMenuItem{
+    color: white ;
+    background-image:#07c0e1;
+    border: 2px solid rgb(218, 218, 218);
+    
+}
+
+.logoutButton{
+    color: white !important;
+    
+    border: 2px solid #c24dd0 !important;
+  }
+  .customeButton{
+    color: white !important;
+    background-image:#c24dd0;
+    border: 2px solid #c24dd0;
+  }
+
+  
